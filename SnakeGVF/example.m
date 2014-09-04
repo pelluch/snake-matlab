@@ -1,0 +1,1 @@
+read_vtk('C:\DocsMaracuya\Datos\2014-06-12-10-32-31SA_Snakes2D/_OriginalReductor_0.vtk',true)
